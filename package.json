@@ -2,7 +2,7 @@
   "private": true,
   "name": "narayana.io",
   "version": "0.1.0",
-  "homepage": "https://narayana.io/",
+  "homepage": "https://Satyadasari1.github.io/narayana.io/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
@@ -18,7 +18,7 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "fs": "0.0.1-security",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "graphql": "^14.3.1",
     "gsap": "^3.12.5",
     "lottie-react": "^2.4.0",
