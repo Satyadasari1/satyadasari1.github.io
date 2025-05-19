@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.24a25406.css",
-    "main.js": "/static/js/main.e4578a34.js",
+    "main.js": "/static/js/main.b3883984.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/code.png": "/static/media/code.64fee43e1256b290a897.png",
+    "static/media/GR.jpg": "/static/media/GR.68611d6e8478bf8f66e2.jpg",
+    "static/media/SATYA.jpg": "/static/media/SATYA.68611d6e8478bf8f66e2.jpg",
     "static/media/iu_logo.png": "/static/media/iu_logo.5f44628376f5171bea0f.png",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.fdf993910e3f48d0cf30.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
@@ -20,22 +22,23 @@
     "static/media/GoogleSans-Regular.ttf": "/static/media/GoogleSans-Regular.bec0591b6a291c3ca895.ttf",
     "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
     "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
-    "static/media/GR.jpg": "/static/media/GR.60c7abff4850ecc2d5ec.jpg",
     "static/media/contactMail.png": "/static/media/contactMail.d4c9ac42fba95158a55c.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/ibm_logo.png": "/static/media/ibm_logo.8204bba7daa4eedf644b.png",
+    "static/media/course.png": "/static/media/course.c4583916d687b1921efb.png",
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.dc957891d535aa198135.woff",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.be1b6b9bacd5f2fb1c7e.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.de5f29dece094f7bec60.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.abd0b20ec83cb1f60d42.svg",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
-    "static/media/srm logo.png": "/static/media/srm logo.e173b5b4dc978fa30cb6.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
-    "static/media/gl.jpg": "/static/media/gl.9d2b9c769a0e145c2c6f.jpg",
+    "static/media/srm logo.png": "/static/media/srm logo.d88b7b980f9e0e2ff793.png",
+    "static/media/vsm logo.png": "/static/media/vsm logo.d88b7b980f9e0e2ff793.png",
+    "static/media/images.png": "/static/media/images.f3f05cbdfe2f499ab5ad.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
+    "static/media/cisco.png": "/static/media/cisco.23d5d8dca572cf8fe596.png",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.14bc947aebe4b57dd2bc.png",
@@ -54,7 +57,9 @@
     "static/media/jsFramework.svg": "/static/media/jsFramework.911c595a22a28c7b6f78.svg",
     "static/media/address_image.svg": "/static/media/address_image.3385d92e5e426e57a5b1.svg",
     "static/media/experience.svg": "/static/media/experience.c50c576af78a4172f78d.svg",
+    "static/media/images (2).png": "/static/media/images (2).4d5dd98aa7d3824ae27c.png",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
+    "static/media/ibm_logo.png": "/static/media/ibm_logo.2bd29ade067eb55a5e60.png",
     "static/media/acc1.jpg": "/static/media/acc1.120be55d8d52f48a0641.jpg",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/feelingProud.svg": "/static/media/feelingProud.288e616ff8dc11bd4713.svg",
@@ -71,10 +76,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.24a25406.css.map": "/static/css/main.24a25406.css.map",
-    "main.e4578a34.js.map": "/static/js/main.e4578a34.js.map"
+    "main.b3883984.js.map": "/static/js/main.b3883984.js.map"
   },
   "entrypoints": [
     "static/css/main.24a25406.css",
-    "static/js/main.e4578a34.js"
+    "static/js/main.b3883984.js"
   ]
 }
