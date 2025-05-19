@@ -7,61 +7,61 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Gokul Raja⚡Portfolio",
+  title: "Satyanarayana Dasari⚡Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Gokul Raja Portfolio",
+    title: "Satyanarayana Dasari Portfolio",
     type: "website",
-    url: "http://gokul-raja84.github.io/",
+    url: "http://satyanarayana-dasari.github.io/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Gokul Raja",
-  logo_name: "Gokul Raja",
+  title: "Satyanarayana Dasari",
+  logo_name: "Satyanarayana Dasari",
   nickname: "Software Developer 💻",
   subTitle:
     "A passionate individual who always thrives to work on developing end to end products and building scalable, high impact projects and technical systems.",
-  resumeLink: "https://gokul-raja84.github.io/My-Resume/",
-  githubProfile: "https://github.com/Gokul-Raja84",
+  resumeLink: "https://satyanarayana-dasari84.github.io/My-Resume/",
+  githubProfile: "https://github.com/satyanarayana-dasari84",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/Gokul-Raja84",
+    link: "https://github.com/satyanarayana-dasari",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/gokulraja84/",
+    link: "https://www.linkedin.com/in/satyanarayana-dasari/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "Gmail",
-    link: "mailto:gokulraja840@gmail.com",
+    link: "mailto:satya.dasari323@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/gokul._raja._/",
+    link: "https://www.instagram.com/satya.dasari._/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
   {
-    name: "Gokul's Blog",
-    link: "https://gokulraja.hashnode.dev/",
+    name: "Satyanarayana's Blog",
+    link: "https://satyanarayana-dasari.hashnode.dev/",
     fontAwesomeIcon: "fa-hashnode",
     backgroundColor: "#1877F2",
   },
   {
     name: "X-Twitter",
-    link: "https://x.com/_iamGokulRaja_",
+    link: "https://x.com/_iamsatyanarayana-dasari_",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
@@ -79,8 +79,8 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Java",
-          fontAwesomeClassname: "devicon:java-wordmark",
+          skillName: "Python",
+          fontAwesomeClassname: "devicon:python-wordmark",
           style: {
             backgroundColor: "#",
             color: "",
@@ -110,8 +110,8 @@ const skills = {
           },
         },
         {
-          skillName: "TypeScript",
-          fontAwesomeClassname: "devicon:typescript",
+          skillName: "NodeJS",
+          fontAwesomeClassname: "devicon:nodejs-wordmark",
           style: {
             backgroundColor: "#",
             color: "",
@@ -126,10 +126,10 @@ const skills = {
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "devicon:nodejs-wordmark",
+          skillName: "Django",
+          fontAwesomeClassname: "devicon-plain:django-wordmark",
           style: {
-            color: "#339933",
+            color: "#",
           },
         },
         {
@@ -164,8 +164,8 @@ const skills = {
           },
         },
         {
-          skillName: "Vercel",
-          fontAwesomeClassname: "devicon:vercel-wordmark",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "devicon:typescript",
           style: {
             backgroundColor: "#",
             color: "",
@@ -191,7 +191,7 @@ const skills = {
       ],
     },
     {
-      title: "AI, ML & Data Analysis",
+      title: "Data Analysis",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing scalable models for various Machine Learning and statistical use cases",
@@ -372,7 +372,7 @@ const competitiveSites = {
       style: {
         color: "#000000",
       },
-      profileLink: "https://github.com/Gokul-Raja84",
+      profileLink: "https://github.com/Satyadasari184",
     },
     {
       siteName: "HackerRank",
@@ -380,7 +380,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/gokulraja840",
+      profileLink: "https://www.hackerrank.com/profile/satya_dasari323",
     },
   ],
 };
@@ -388,16 +388,16 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "SRM Institute of Science and Technology",
-      subtitle: "B.Tech. in Information Technology - 9.42 CGPA",
+      title: "V S M COLLEGE OF ENGINEERING",
+      subtitle: "B.Tech. in Computer Science and Engineering - 7.11 CGPA",
       logo_path: "srm logo.png",
-      duration: "2020 - 2024",
+      duration: "2019 - 2022",
       descriptions: [
         "🔺 I studied software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "📈 Apart from this, I have done courses on Machine Learning, Data Analysis, AWS Cloud Technical, Web Development and UI/UX.",
-        "⚡ I also served as DEPARTMENT REPRESENTATIVE of my department.",
+        "⚡ I also served as a student volunteer in the National Service Scheme (NSS) during college, engaging in various social service activities and community outreach programs.",
       ],
-      website_link: "https://srmrmp.edu.in/",
+      website_link: "https://vsm.edu.in/",
     },
   ],
 };
@@ -405,11 +405,11 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Python course by Google",
-      subtitle: "Coursera",
-      logo_path: "google_logo.png",
+      title: "Python Essentials",
+      subtitle: "Cisco",
+      logo_path: "cisco.png",
       certificate_link: "",
-      alt_name: "Stanford University",
+      alt_name: "Cisco",
       color_code: "#ffffff",
     },
     {
@@ -421,7 +421,7 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "AWS Cloud Technical Essentials",
+      title: "Generative AI Applictions and Python Fundamentals",
       subtitle: "",
       logo_path: "images.png",
       certificate_link: "",
@@ -429,39 +429,39 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "SQL for Data Science",
-      subtitle: "UC DAVIS - Coursera",
+      title: "Software Engineer",
+      subtitle: "HackerRank",
       logo_path: "course.png",
       certificate_link: "",
+      alt_name: "HackerRank",
+      color_code: "#ffffff",
+    },
+    {
+      title:  "Web Development",
+      subtitle: "IBM SkillBuild",
+      logo_path: "ibm_logo.png",
+      certificate_link: "",
       alt_name: "IBM",
       color_code: "#ffffff",
     },
     {
-      title: "Machine Learning with Python",
-      subtitle: "IBM",
-      logo_path: "ibm_logo.png",
-      certificate_link: "",
-      alt_name: "Microsoft",
-      color_code: "#ffffff",
-    },
-    {
-      title: "Google IT Support",
+      title: "JavaScript",
       subtitle: "",
-      logo_path: "google_logo.png",
+      logo_path: "cisco.png",
       certificate_link: "",
-      alt_name: "IBM",
+      alt_name: "Cisco",
       color_code: "#ffffff",
     },
     {
-      title: "Web Development",
-      subtitle: "IBM - Coursera",
-      logo_path: "ibm_logo.png",
+      title:"Reactjs",
+      subtitle: "GUVI Geek Networks",
+      logo_path: "images (2).png",
       certificate_link: "",
-      alt_name: "Google",
+      alt_name: "GUVI",
       color_code: "#ffffff",
     },
     {
-      title: "Python Data Structures",
+      title: "Python",
       subtitle: "",
       logo_path: "course.png",
       certificate_link: "",
@@ -469,11 +469,11 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "Google UX Design",
+      title: "Data Analytics",
       subtitle: "",
-      logo_path: "google_logo.png",
+      logo_path: "cisco.png",
       certificate_link: "",
-      alt_name: "Coursera",
+      alt_name: "Cisco",
       color_code: "#ffffff",
     },
     {
@@ -493,8 +493,8 @@ const certifications = {
       color_code: "#ffffff",
     },
     {
-      title: "Data Visualization",
-      subtitle: "Great Learning",
+      title: "3-Week Course on Python",
+      subtitle: "GeeksforGeeks",
       logo_path: "gl.jpg",
       certificate_link: "",
       alt_name: "GCP",
@@ -508,7 +508,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work / Internship",
   description:
-    " I am currently working as a Software Engineer in a major corporate environment. If you have opportunities aligned with my skills, projects, and experience, I would be delighted to connect and discuss how I can contribute to your team, project, or organization.",
+    " I am actively seeking opportunities to apply my skills, academic projects, and training in a professional environment. I would be excited to connect and explore how I can contribute to your team, project, or organization.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -521,9 +521,9 @@ const experience = {
           company_url: "https://www.tiktok.com/en/",
           logo_path: "tiktok_logo.png",
           duration: "Currently Present in ",
-          location: "Chennai / Madurai, Tamil Nadu, India",
+          location: "Rajahmundry / Konaseema District, Andhra Pradesh, India",
           description:
-            "Improving my skillset each and every day. If you've come this far in my portfolio, it might mean you have an opportunity for me. I'd love to connect and discuss how I can contribute to your team or project. Help me take the next step in my career journey !",
+            "I'm continually growing my skillset and eager to apply what I’ve learned in real-world projects. If you've made it this far in my portfolio, I truly appreciate your time — and I’d be excited to connect. Let’s talk about how I can contribute to your team and take the next step in my career journey.",
           color: "#000000",
         },
       ],
@@ -532,14 +532,25 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Software developer Intern",
-          company: "Cosmic Crafts",
-          company_url: "https://cosmiccrafts.netlify.app/",
+          title: "Data Analyst",
+          company: "KultureHire",
+          company_url: "https://www.kulturehire.com/",
           logo_path: "tiktok_logo.png",
-          duration: "July 2023 - October 2023",
-          location: "SRMIST, Chennai",
+          duration: "October 2024 - November 2024",
+          location: "Remote",
           description:
-            "Led a student community in concept development and client engagement for app, web, and design solutions, showcasing leadership, strong teamwork and multitasking skills; Developed and deployed websites and projects, actively contributing to coding, testing, and enhancing user experience.",
+            "Successfully completed a remote internship focused on web, app, and design solutions within a student-led community. Took ownership of project planning, client interaction, and concept development. Actively contributed to front-end and back-end development, data handling, and testing workflows. Demonstrated strong analytical thinking, leadership, and team collaboration while improving user experience and delivering functional web applications aligned with client needs.",
+          color: "#000000",
+        },
+        {
+          title: "Python Developer",
+          company: "CODTECH IT SOLUTIONS",
+          company_url: "https://www.codtechitsolutions.com/",
+          logo_path: "tiktok_logo.png",
+          duration: "March 2024 - April 2024",
+          location: "Remote",
+          description:
+            "Completed a project-based internship as a Python Developer, contributing to the development and deployment of dynamic web and software solutions. Actively engaged in backend logic, API integration, and data handling using Python. Collaborated with cross-functional teams on concept development, client requirements, and testing. Demonstrated strong problem-solving skills, effective teamwork, and a solid understanding of software development workflows in a remote professional environment.",
           color: "#000000",
         },
       ],
@@ -548,42 +559,15 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Department Representative",
-          company: "Information Technology Department",
-          company_url: "https://srmrmp.edu.in/",
+          title: "Student Volunteer, National Service Scheme (NSS)",
+          company: "V S M COLLEGE OF ENGINEERING",
+          company_url: "https://www.vsm.edu.in/",
+           duration: "June 2019 - April 2022",
           location:
-            "SRM Institute of Science and Technology, Ramapuram, Chennai",
+            " Rayavaram, Andhra Pradesh",
           description:
-            "Coordinated students and tasks as a Department Representative, ensuring smooth communication and efficient task management within the IT Department.",
+            "Actively served as a student volunteer in the National Service Scheme (NSS), participating in a wide range of social service initiatives and community outreach programs. Contributed to organizing and supporting medical camps, blood donation drives, Swachh Bharat (Clean India), plastic awareness initiatives, and other civic engagement activities. Developed a strong sense of social responsibility, teamwork, and leadership while working toward the betterment of local communities.",
           color: "#D83B01",
-        },
-        {
-          title: "Placement Representative",
-          company: "Information Technology Department",
-          company_url: "https://srmrmp.edu.in/",
-          location:
-            "SRM Institute of Science and Technology, Ramapuram, Chennai",
-          duration: "July 2023 - Febraury, 2024",
-          description:
-            "Served as one of the Placement Representative for the IT Department, assisting students in scheduling and organizing placement drives.",
-          color: "#D83B01",
-        },
-      ],
-    },
-    {
-      title: "Blog",
-      work: true,
-      experiences: [
-        {
-          title: "Technical content writer",
-          company: "Gokul's Blog - gokulraja.hashnode.dev",
-          company_url: "https://gokulraja.hashnode.dev",
-          logo_path: "",
-          duration: "July 2024 - Present",
-          location: "",
-          description:
-            "Currently developing my technical writing skills by building and writing blogs on various topics, including Python, JavaScript frameworks, Machine Learning, and Generative AI. Hey, if you’re experienced in tech blogging, help me out!",
-          color: "#000000",
         },
       ],
     },
@@ -594,35 +578,17 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Machine Learnig, Python and Data Analysis projects along with Responsive Websites / Web apps and host - deploy them.",
+    "I have worked on a diverse range of projects leveraging modern technologies. My strongest areas include Machine Learning, Python programming, and Data Analysis, alongside building responsive websites and web applications. I enjoy taking projects from concept to deployment, with hands-on experience in developing, hosting, and deploying solutions that are both functional and user-friendly.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
-  title: "Publications",
-  description:
-    "I have worked on two research papers / projects and ACGAN Project has been accepted for publication in the Journal of Current Research in Engineering and Science.",
-  avatar_image_path: "projects_image.svg",
+  title: "0satyas",
+ 
 };
 
 const publications = {
   data: [
-    {
-      id: "",
-      name: "Math Scribble",
-      createdAt: "",
-      description:
-        "Project on Deep Learning for Real time Handwritten Math Equations Recognition and Solving for Students",
-      url: "",
-    },
-    {
-      id: "",
-      name: "ACGAN - Network security deicision making",
-      createdAt: "",
-      description:
-        "Paper on Enhance Network Security Decision Making using ACGAN Machine Learning for unbalanced data in Network attacks",
-      url: "",
-    },
   ],
 };
 
@@ -633,7 +599,7 @@ const contactPageData = {
     profile_image_path: "GR.jpg",
     description: (
       <span>
-        Be it for a project, a part-time role, a presentation, or simply to say
+         I'm always excited to explore new opportunities, Be it for a project, a part/full-time role, a presentation, or simply to say
         hello, I'm always happy and looking forward to hearing from you.
         <br /> I can help you with Python, ML, SQL, Data Analysis, Web Dev and
         UI/UX.
@@ -644,7 +610,7 @@ const contactPageData = {
     title: "Aspiration",
     subtitle:
       "I am actively seeking thrilling opportunities where I can contribute and grow. Explore my GitHub to discover my skills and projects, and feel free to reach out if you have a role that aligns with my talents and aspirations.",
-    link: "https://github.com/Gokul-Raja84",
+    link: "https://github.com/Satyanarayana-Dasari84",
     avatar_image_path: "code.png",
   },
   addressSection: {
@@ -652,7 +618,7 @@ const contactPageData = {
     subtitle:
       "Feel free to reach out if you're looking for a Developer or designer, or simply want to connect. Check out my other socials and links here🔻",
     avatar_image_path: "",
-    location_map_link: "https://bento.me/gokulraja",
+    location_map_link: "https://bento.me/satya",
   },
   phoneSection: {
     title: "",
@@ -661,7 +627,7 @@ const contactPageData = {
 };
 
 console.log(
-  "%c Designed and Developed by Gokul Raja⚡",
+  "%c Designed and Developed by Satyanarayana Dasari⚡",
   "background-image: linear-gradient(90deg,#abc4ff,#D5CFD6); color: black;font-weight:1000;font-size:1rem; padding:20px;"
 );
 
