@@ -31,7 +31,7 @@ const greeting = {
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/satyanarayana-dasari",
+    link: "http://satyanarayana-dasari.github.io/",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -133,8 +133,8 @@ const skills = {
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "devicon:firebase-wordmark",
+          skillName: "Flask",
+          fontAwesomeClassname: "simple-icons:flask",
           style: {
             backgroundColor: "#",
             color: "",
@@ -372,7 +372,7 @@ const competitiveSites = {
       style: {
         color: "#000000",
       },
-      profileLink: "https://github.com/Satyadasari184",
+      profileLink: "http://satyanarayana-dasari.github.io/",
     },
     {
       siteName: "HackerRank",
@@ -518,7 +518,7 @@ const experience = {
         {
           title: "Looking for opportunities",
           company: "",
-          company_url: "https://www.tiktok.com/en/",
+          company_url: "http://satyanarayana-dasari.github.io/",
           logo_path: "tiktok_logo.png",
           duration: "Currently Present in ",
           location: "Rajahmundry / Konaseema District, Andhra Pradesh, India",
@@ -610,7 +610,7 @@ const contactPageData = {
     title: "Aspiration",
     subtitle:
       "I am actively seeking thrilling opportunities where I can contribute and grow. Explore my GitHub to discover my skills and projects, and feel free to reach out if you have a role that aligns with my talents and aspirations.",
-    link: "https://github.com/Satyanarayana-Dasari84",
+    link: "http://satyadasari1.github.io/",
     avatar_image_path: "code.png",
   },
   addressSection: {

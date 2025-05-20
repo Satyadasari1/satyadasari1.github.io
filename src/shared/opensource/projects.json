@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "DigitGlyph",
+      "name": "Salary Prediction Using Machine Learning Web App",
       "createdAt": "",
-      "url": "https://github.com/Gokul-Raja84/DigitGlyph",
-      "description": "A Handwritten Digit Recognition Machine Learning Web App with accuracy of 99.15%",
+      "url": "http://satyadasari1.github.io/",
+      "description": "A full-stack web application that estimates salaries based on job features. Demonstrates model deployment using Flask and regression-based ML modeling.",
       "isFork": false,
       "languages": [
         {
@@ -26,7 +26,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
       "name": "My Portfolio",
       "createdAt": "",
-      "url": "https://gokulraja.hashnode.dev/my-portfolio-website",
+      "url": "http://satyadasari1.github.io/",
       "description": "My Portfolio Website, the site you are exploring right now.",
       "isFork": false,
       "languages": [
@@ -50,10 +50,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "ImaGen-AI",
+      "name": "IMDB Sentiment Analysis Machine Learning",
       "createdAt": "",
-      "url": "https://github.com/Gokul-Raja84/ImaGenAI-DALLE-MERN",
-      "description": "AI Image Generation in MERN with DALL·E !",
+      "url": "http://satyadasari1.github.io/",
+      "description": "NLP project that analyzes the sentiment of movie reviews using text classification. Built with Scikit-learn and deployed as a real-time web app.",
       "isFork": false,
       "languages": [
         {
@@ -80,10 +80,10 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "Music Recommendation and Data Analysis",
+      "name": "Road Accident Severity Prediction Using Machine Learning",
       "createdAt": "",
-      "url": "https://github.com/Gokul-Raja84/Spotify-Music-Recommendation-and-Data-Analysis",
-      "description": "Music Recommendation, Exploratory Data analysis & Data visualization project using Spotify Data and Spotiy API",
+      "url": "http://satyadasari1.github.io/",
+      "description": "Machine learning solution that predicts the severity of road accidents. Built with classification models and deployed as an interactive web app.",
       "isFork": false,
       "languages": [
         {
@@ -106,9 +106,9 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "Java Projects",
+      "name": "Road Accident Severity Prediction Using Machine Learning",
       "createdAt": "",
-      "url": "https://github.com/Gokul-Raja84/Java-Projects",
+      "url": "http://satyadasari1.github.io/",
       "description": "A range of Java projects designed to develop engaging command-line applications, games and useful tools, ideal for those eager to learn Java",
       "isFork": false,
       "languages": [
@@ -119,6 +119,28 @@
         {
           "name": "Command Line",
           "iconifyClass": "flat-color-icons:command-line"
+        },
+        {
+          "name": "Coding games",
+          "iconifyClass": "arcticons:games-2"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Road Accident Severity Prediction Using Machine Learning",
+      "createdAt": "",
+      "url": "http://satyadasari1.github.io/",
+      "description": "A range of Java projects designed to develop engaging command-line applications, games and useful tools, ideal for those eager to learn Java",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "simple-icons:flask"
+        },
+        {
+          "name": "Command Line",
+          "iconifyClass": "logos:react"
         },
         {
           "name": "Coding games",

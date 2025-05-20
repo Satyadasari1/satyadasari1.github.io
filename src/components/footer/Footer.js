@@ -27,7 +27,7 @@ export default function Footer(props) {
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
           Designed and Developed by{" "}
           <span className="link link-underline link-underline-black" href="#">
-            Gokul Raja
+            Satyanarayana Dasari
           </span>
           ⚡
         </p>

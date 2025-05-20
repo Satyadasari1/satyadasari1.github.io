@@ -2,7 +2,7 @@
   "private": true,
   "name": "narayana.io",
   "version": "0.1.0",
-  "homepage": "https://narayana.io.github.io",
+  "homepage": "https://Satyadasari1.io.github.io",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
