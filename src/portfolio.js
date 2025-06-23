@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Satyanarayana Dasari Portfolio",
     type: "website",
-    url: "http://satyanarayana-dasari.github.io/",
+    url: "https://github.com/Satyanarayana-dasari",
   },
 };
 
@@ -24,14 +24,14 @@ const greeting = {
   nickname: "Software Developer 💻",
   subTitle:
     "A passionate individual who always thrives to work on developing end to end products and building scalable, high impact projects and technical systems.",
-  resumeLink: "https://satyanarayana-dasari84.github.io/My-Resume/",
-  githubProfile: "https://github.com/satyanarayana-dasari84",
+  resumeLink: "https://github.com/Satyanarayana-dasari",
+  githubProfile: "https://github.com/Satyanarayana-dasari",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "http://satyanarayana-dasari.github.io/",
+    link: "https://github.com/Satyanarayana-dasari",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -55,7 +55,7 @@ const socialMediaLinks = [
   },
   {
     name: "Satyanarayana's Blog",
-    link: "https://satyanarayana-dasari.hashnode.dev/",
+    link: "https://github.com/Satyanarayana-dasari",
     fontAwesomeIcon: "fa-hashnode",
     backgroundColor: "#1877F2",
   },
@@ -372,7 +372,7 @@ const competitiveSites = {
       style: {
         color: "#000000",
       },
-      profileLink: "http://satyanarayana-dasari.github.io/",
+      profileLink: "https://github.com/Satyanarayana-dasari",
     },
     {
       siteName: "HackerRank",
@@ -518,7 +518,7 @@ const experience = {
         {
           title: "Looking for opportunities",
           company: "",
-          company_url: "http://satyanarayana-dasari.github.io/",
+          company_url: "https://github.com/Satyanarayana-dasari",
           logo_path: "tiktok_logo.png",
           duration: "Currently Present in ",
           location: "Rajahmundry / Konaseema District, Andhra Pradesh, India",
@@ -610,7 +610,7 @@ const contactPageData = {
     title: "Aspiration",
     subtitle:
       "I am actively seeking thrilling opportunities where I can contribute and grow. Explore my GitHub to discover my skills and projects, and feel free to reach out if you have a role that aligns with my talents and aspirations.",
-    link: "http://satyadasari1.github.io/",
+    link: "https://github.com/Satyanarayana-dasari",
     avatar_image_path: "code.png",
   },
   addressSection: {
@@ -618,7 +618,7 @@ const contactPageData = {
     subtitle:
       "Feel free to reach out if you're looking for a Developer or designer, or simply want to connect. Check out my other socials and links here🔻",
     avatar_image_path: "",
-    location_map_link: "https://bento.me/satya",
+    location_map_link: "https://github.com/Satyanarayana-dasari",
   },
   phoneSection: {
     title: "",
