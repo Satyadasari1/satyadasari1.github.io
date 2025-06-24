@@ -33,8 +33,8 @@ This website serves as a central hub to showcase my skills, certifications, and 
 
 ## 📸 Preview
 
-![Portfolio Screenshot](https://user-images.githubusercontent.com/your-screenshot-url.jpg)  
-_Replace with your real screenshot URL from GitHub or Imgur._
+![Portfolio Screenshot](https://satyadasari1.github.io/)  
+
 
 ---
 
