@@ -105,48 +105,82 @@
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "Road Accident Severity Prediction Using Machine Learning",
-      "createdAt": "",
-      "url": "http://satyadasari1.github.io/",
-      "description": "A range of Java projects designed to develop engaging command-line applications, games and useful tools, ideal for those eager to learn Java",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Java",
-          "iconifyClass": "devicon:java-wordmark"
-        },
-        {
-          "name": "Command Line",
-          "iconifyClass": "flat-color-icons:command-line"
-        },
-        {
-          "name": "Coding games",
-          "iconifyClass": "arcticons:games-2"
-        }
-      ]
+  "id": "R_kgDOG_vYHA",
+  "name": "AI Career Coach & Job Finder",
+  "createdAt": "",
+  "url": "https://github.com/Gokul-Raja84/AI-Career-Coach-and-Job-Finder",
+  "description": "An AI-powered tool that helps job seekers by parsing resumes, recommending roles, generating cover letters, and conducting mock interviews using GPT-4.",
+  "isFork": false,
+  "languages": [
+    {
+      "name": "Python",
+      "iconifyClass": "logos-python"
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "Road Accident Severity Prediction Using Machine Learning",
-      "createdAt": "",
-      "url": "http://satyadasari1.github.io/",
-      "description": "A range of Java projects designed to develop engaging command-line applications, games and useful tools, ideal for those eager to learn Java",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Java",
-          "iconifyClass": "simple-icons:flask"
-        },
-        {
-          "name": "Command Line",
-          "iconifyClass": "logos:react"
-        },
-        {
-          "name": "Coding games",
-          "iconifyClass": "arcticons:games-2"
-        }
-      ]
+      "name": "Flask",
+      "iconifyClass": "logos:flask"
+    },
+    {
+      "name": "GPT-4",
+      "iconifyClass": "logos:openai-icon"
+    },
+    {
+      "name": "spaCy",
+      "iconifyClass": "logos:spacy"
     }
+  ]
+},
+    {
+  "id": "R_kgDOInboxAI01",
+  "name": "Smart Inbox AI Agent",
+  "createdAt": "",
+  "url": "https://github.com/Gokul-Raja84/Smart-Inbox-AI-Agent",
+  "description": "Automates inbox by sorting, summarizing, and replying to emails using GPT-4 and Gmail API. Ideal for busy professionals and support agents.",
+  "isFork": false,
+  "languages": [
+    {
+      "name": "Python",
+      "iconifyClass": "logos-python"
+    },
+    {
+      "name": "Gmail API",
+      "iconifyClass": "logos:google-gmail"
+    },
+    {
+      "name": "GPT-4",
+      "iconifyClass": "logos:openai-icon"
+    },
+    {
+      "name": "NLP",
+      "iconifyClass": "logos:nlp"
+    }
+  ]
+},
+{
+  "id": "R_kgDOATSMatcher01",
+  "name": "ATS Resume Score & Job Matcher",
+  "createdAt": "",
+  "url": "https://github.com/Gokul-Raja84/ATS-Resume-Score-and-Job-Matcher",
+  "description": "Scans resumes, scores them against job descriptions, and suggests skill improvements or best-matched job roles using GPT-4 and NLP.",
+  "isFork": false,
+  "languages": [
+    {
+      "name": "Python",
+      "iconifyClass": "logos-python"
+    },
+    {
+      "name": "NLP",
+      "iconifyClass": "logos:nlp"
+    },
+    {
+      "name": "GPT-4",
+      "iconifyClass": "logos:openai-icon"
+    },
+    {
+      "name": "Resume Parser",
+      "iconifyClass": "logos:document"
+    }
+  ]
+}
   ]
 }

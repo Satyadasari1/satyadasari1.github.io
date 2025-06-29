@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./Greeting.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
@@ -8,6 +8,16 @@ import FeelingProud from "./FeelingProud";
 
 export default function Greeting(props) {
   const theme = props.theme;
+
+  const [nicknameIndex, setNicknameIndex] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setNicknameIndex((prevIndex) => (prevIndex + 1) % greeting.nicknames.length);
+    }, 2000); // Change nickname every 2 seconds
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <Fade bottom duration={2000} distance="40px">
       <div className="greet-main" id="greeting">
@@ -17,11 +27,9 @@ export default function Greeting(props) {
               <h1 className="greeting-text" style={{ color: theme.text }}>
                 {greeting.title}
               </h1>
-              {greeting.nickname && (
-                <h2 className="greeting-nickname" style={{ color: theme.text }}>
-                  {greeting.nickname}
-                </h2>
-              )}
+              <h2 className="greeting-nickname" style={{ color: theme.text }}>
+                {greeting.nicknames[nicknameIndex]}
+              </h2>
               <p
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
@@ -33,22 +41,20 @@ export default function Greeting(props) {
                 <Button
                   text="My Github"
                   newTab={true}
-                  href={"https://github.com/Satyanarayana-dasari"}
+                  href={greeting.githubProfile}
                   theme={theme}
                   className="portfolio-repo-btn"
                 />
               </div>
-              {/* <div className="button-greeting-div">
-              <Button text="Contact me" href="#contact" />
-              <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
-            </div> */}
+              {/* Uncomment if needed
+              <div className="button-greeting-div">
+                <Button text="Contact me" href="#contact" />
+                <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
+              </div>
+              */}
             </div>
           </div>
           <div className="greeting-image-div">
-            {/* <img
-							alt="saad sitting on table"
-							src={require("../../assests/images/feelingProud.svg")}
-						></img> */}
             <FeelingProud theme={theme} />
           </div>
         </div>

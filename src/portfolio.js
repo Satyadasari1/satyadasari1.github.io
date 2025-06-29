@@ -21,9 +21,22 @@ const seo = {
 const greeting = {
   title: "Satyanarayana Dasari",
   logo_name: "Satyanarayana Dasari",
-  nickname: "Software Developer 💻",
+  nicknames: [
+    "Full Stack Developer 🚀",
+    "Data Analyst 📊",
+    "Tech Enthusiast 🌐",
+    "Problem Solver 🧠",
+    "AI Agent Developer 🧠🤖",
+    "Intelligent Systems Explorer 🧬",
+    "React Developer ⚛️",
+    "Creative Coder ✨",
+    "Lifelong Learner 📚",
+    "Tech Storyteller 📖",
+    "Cloud Explorer ☁️",
+    "UI/UX Designer 🎨",
+  ],
   subTitle:
-    "A passionate individual who always thrives to work on developing end to end products and building scalable, high impact projects and technical systems.",
+    "Versatile developer with a passion for building impactful, scalable, and user-friendly products. I specialize in full-stack development, data analysis, and creative problem-solving, always eager to learn and innovate in fast-paced environments.",
   resumeLink: "https://github.com/Satyanarayana-dasari",
   githubProfile: "https://github.com/Satyanarayana-dasari",
 };
@@ -578,7 +591,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "I have worked on a diverse range of projects leveraging modern technologies. My strongest areas include Machine Learning, Python programming, and Data Analysis, alongside building responsive websites and web applications. I enjoy taking projects from concept to deployment, with hands-on experience in developing, hosting, and deploying solutions that are both functional and user-friendly.",
+  "I've built a variety of projects using modern technologies that reflect my passion for solving real-world problems. My core strengths lie in Python programming, Machine Learning, Data Analysis, and Full Stack Web Development. From responsive websites to intelligent applications, I enjoy bringing ideas to life—right from concept to deployment—focusing on usability, performance, and clean code. Every project is a step forward in my learning journey and a showcase of my commitment to quality and innovation.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -596,20 +609,21 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "GR.jpg",
+    profile_image_path: "SATYA.jpg",
     description: (
-      <span>
-         I'm always excited to explore new opportunities, Be it for a project, a part/full-time role, a presentation, or simply to say
-        hello, I'm always happy and looking forward to hearing from you.
-        <br /> I can help you with Python, ML, SQL, Data Analysis, Web Dev and
-        UI/UX.
-      </span>
-    ),
+  <span>
+    I'm always open to exciting opportunities—whether it's a project collaboration, part-time/full-time role, presentation, or just a friendly tech conversation. <br />
+    With a passion for building intelligent systems and user-focused solutions, I bring strong skills in Python, Machine Learning, SQL, Data Analysis, Web Development, and UI/UX Design. <br />
+    I’m also exploring AI agents and innovative technologies that push the boundaries of what’s possible. <br />
+    Let’s connect and build something impactful together!
+  </span>
+),
+
   },
   blogSection: {
     title: "Aspiration",
     subtitle:
-      "I am actively seeking thrilling opportunities where I can contribute and grow. Explore my GitHub to discover my skills and projects, and feel free to reach out if you have a role that aligns with my talents and aspirations.",
+  "I'm actively seeking exciting opportunities where I can contribute, grow, and make a meaningful impact. From innovative projects to dynamic roles, I'm eager to apply my skills in real-world environments. Explore my GitHub to see my work, and feel free to reach out if you believe I’d be a great fit for your team or initiative.",
     link: "https://github.com/Satyanarayana-dasari",
     avatar_image_path: "code.png",
   },
